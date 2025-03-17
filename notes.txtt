@@ -1,0 +1,6 @@
+
+//Make sure you are in the website1 directory
+
+git add .
+git commit -m "SOME MESSAGE"
+git push
