@@ -5,5 +5,5 @@
 }
 
 body {
-    background: #224941;
+    background: #224941 url('../images/relax.avif') no-repeat center center/cover;
 }
