@@ -53,3 +53,11 @@ body {
     top: -10px;
     left: 10;
 }
+
+
+.pointer {
+    background-color: white;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
