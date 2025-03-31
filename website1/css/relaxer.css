@@ -70,4 +70,5 @@ body {
     width: 20px;
     height: 190px;
     background-color: red;
+    animation: rotate
 }
