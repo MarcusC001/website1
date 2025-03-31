@@ -35,3 +35,14 @@ body {
     z-index: -1;
     border-radius: 50%;
 }
+
+.gradient-circle {
+    background: conic-gradient(
+        #55b7a4 0%,
+        #4ca493 40%,
+        #ffffff 40%,
+        #ffffff 60%,
+        #336d62 60%,
+        #2a5b52 100%
+    )
+}
