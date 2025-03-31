@@ -23,5 +23,14 @@ body {
     height: 300px;
     width: 300px;
     position: relative;
-    background-color: red;
+}
+
+.circle {
+    background-color: #010f1c;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
