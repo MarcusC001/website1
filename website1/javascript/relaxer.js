@@ -1,7 +1,7 @@
 const container = document.getElementById('container')
 const text = document.getElementById('text')
 
-setInterval (breathAnimation, 7500)
+setInterval(breathAnimation, 7500)
 
 function breathAnimation() {
     text.innerHTML = 'Breathe In'
@@ -9,7 +9,7 @@ function breathAnimation() {
     container.classList.add('grow')
 
     setTimeout ( () => {
-        text.innerHTML = 'Hold'
+        text.innerHTML = 'Hold...'
     }, 3000)
 
     setTimeout ( () => {
