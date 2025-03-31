@@ -1,2 +1,4 @@
-const container =
-const text =
+const container = document.getElementById('container')
+const text = document.getElementById('text')
+
+function
