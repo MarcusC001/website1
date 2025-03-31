@@ -6,4 +6,10 @@
 
 body {
     background: #224941 url('../images/relax.avif') no-repeat center center/cover;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
 }
