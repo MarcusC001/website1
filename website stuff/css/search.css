@@ -1,0 +1,22 @@
+
+
+body {
+    background-color: greenyellow;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.search {
+    height: 50px;
+    position: relative;
+}
+
+.search .btn {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 24px;
+}
