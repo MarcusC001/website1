@@ -22,5 +22,6 @@ body {
     margin: auto;
     height: 300px;
     width: 300px;
-
+    position: relative;
+    background-color: red;
 }
